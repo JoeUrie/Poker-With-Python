@@ -1,0 +1,2 @@
+# Poker-With-Python
+I use machine learning and python to create an algorithm which will calculate the poker value of your hand. Both data sets are required if you want to use my code. These were provided by the UCI Machine Learning Data Repository. As of right now the machine correctly guesses the value 58% of the time. The project was created for a final grade in an artificial intelligence class. 
